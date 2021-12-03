@@ -3,12 +3,10 @@
 
 #### Top Repositories
 
-<a href="https://github.com/CoolboY61/CoolboY61.github.io"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolboY61&repo=CoolboY61.github.io&theme=buefy" /> </a>
-
-<a href="https://github.com/CoolboY61/Reliable-UDP">
+| <a href="https://github.com/CoolboY61/CoolboY61.github.io"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolboY61&repo=CoolboY61.github.io&theme=buefy" /> </a> | <a href="https://github.com/CoolboY61/Reliable-UDP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolboY61&repo=Reliable-UDP&theme=buefy" />
-</a>
-
+</a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 <p align="center"> 
