@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Eturial&show_icons=true&theme=synthwave&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CoolboY61&show_icons=true&theme=synthwave&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eturial&layout=compact&hide=html,javascript,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolboY61&layout=compact&hide=html,javascript,css)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eturial)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CoolboY61)
 
 
 
